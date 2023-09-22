@@ -1,0 +1,53 @@
+[
+    {
+      "title": "Cien años de soledad",
+      "author": "Gabriel García Márquez",
+      "year": 1967
+    },
+    {
+      "title": "1984",
+      "author": "George Orwell",
+      "year": 1949
+    },
+    {
+      "title": "El gran Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "year": 1925
+    },
+    {
+      "title": "Matar a un ruiseñor",
+      "author": "Harper Lee",
+      "year": 1960
+    },
+    {
+      "title": "Don Quijote de la Mancha",
+      "author": "Miguel de Cervantes Saavedra",
+      "year": 1605 
+    },
+    {
+      "title": "Orgullo y prejuicio",
+      "author": "Jane Austen",
+      "year": 1813
+    },
+    {
+      "title": "En busca del tiempo perdido",
+      "author": "Marcel Proust",
+      "year": 1913
+    },
+    {
+      "title": "Crónica de una muerte anunciada",
+      "author": "Gabriel García Márquez",
+      "year": 1981
+    },
+    {
+      "title": "Rayuela",
+      "author": "Julio Cortázar",
+      "year": 1963
+    },
+    {
+      "title": "El Hobbit",
+      "author": "J.R.R. Tolkien",
+      "year": 1937
+    }
+  ]
+  

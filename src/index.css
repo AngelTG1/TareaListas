@@ -1,0 +1,32 @@
+.containerA{
+    /* border: 2px solid red; */
+}
+
+.btnContent{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.containerBtn{
+    display: flex;
+    flex-direction: row;
+    
+}
+
+.listApp{
+    list-style: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.tabla{
+    display: flex;
+    flex-direction: column;
+    /* border: 2px solid red; */
+    justify-content: center;
+    align-content: center;
+    text-align: center;
+}
